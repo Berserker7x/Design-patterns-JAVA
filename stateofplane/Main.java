@@ -1,6 +1,4 @@
-import stateofplane.Avion;
-import stateofplane.AvionImpl;
-
+package stateofplane;
 public class Main {
     public static void main(String[] args) {
         Avion avion=new AvionImpl(); 
